@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/govind.mgtcommerce.com/lib/web/mage/requirejs/resolver.js

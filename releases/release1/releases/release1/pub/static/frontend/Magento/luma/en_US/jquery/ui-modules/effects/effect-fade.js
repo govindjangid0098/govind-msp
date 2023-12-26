@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/govind.mgtcommerce.com/lib/web/jquery/ui-modules/effects/effect-fade.js
